@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @paulexmaze99
+- 👋 Hi, I’m PAUL OKOLIE
 🎓 I'm an upcoming backend developer.
 👀 I’m interested in programming
 🌱 I’m currently learning backend development
