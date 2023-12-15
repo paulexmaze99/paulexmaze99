@@ -1,5 +1,5 @@
 - 👋 Hi, I’m PAUL OKOLIE
-🎓 I'm an upcoming backend developer.
+🎓 I'm a backend developer.
 👀 I’m interested in programming
 🌱 I’m currently learning backend development
 🔭 In my spare time I'm working on open source projects
