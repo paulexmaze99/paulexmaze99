@@ -6,7 +6,6 @@
 💬 I love working on protoype and design to bring life to them
 👨‍💻 i am passionate about the IT industry and tech world and writing clean code
 📫 How to reach me: https://www.linkedin.com/in/okolie-paul-b0a9b427a/
-📫 How to reach me https://www.facebook.com/paul.okolie.56/
 
 
 <!---
