@@ -1,7 +1,7 @@
 <!--suppress HtmlDeprecatedAttribute -->
 # Hello! 👋 Who am I? #
 <div>
-<br/> Backend Developer {{ Laravel Artisan }}<br/>
+<br/> Backend dev,  | Python | Php | Laravel | Django |  Mysql . A techie.<br/>
 
 
 </div>
