@@ -25,7 +25,7 @@
         <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="65" height="65" />
       <br>TypeScript
     </td> -->
-    <td align="center" width="96">
+ <!--   <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="65" height="65" />
       <br>Github
     </td>
@@ -54,9 +54,9 @@
    <td align="center" width="96">
   <img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="Python" />
   <br>Python
-</td>
+</td> 
 
-      <!-- <td align="center" width="96">
+       <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB" />
       <br>MongoDB
     </td>
