@@ -26,9 +26,9 @@
       <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="65" height="65" />
       <br>MySQL
     </td>
-    <td align="center" width="96">
+  <!--  <td align="center" width="96">
       <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript" width="65" height="65" />
-      <br>TypeScript
+      <br>TypeScript-->
     </td>
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="Python" />
@@ -73,7 +73,7 @@
 
 ---
 
-# 📈 Stats & Contributions  
+<!--# 📈 Stats & Contributions  
 
 <p align="center">
   <a href="https://github.com/projecthanif?tab=repositories">
@@ -88,7 +88,7 @@
   <a href="https://github.com/projecthanif?tab=achievements">
     <img src="https://github-profile-trophy.vercel.app/?username=projecthanif&theme=onestar&no-frame=true&column=3&row=2" width="60%" />
   </a>
-</p>
+</p> -->
 
 ---
 
