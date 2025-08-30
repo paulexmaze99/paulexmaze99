@@ -94,10 +94,10 @@
 
 # 📬 Reach Out  
 
-<a href="mailto:paulokolie99@gmail.com"><img src="./assets/gmail.png" alt="Gmail" height="50" title="Send Email"></a>
+<a href="paulokolie99@gmail.com"><img src="./assets/gmail.png" alt="Gmail" height="50" title="Send Email"></a>
 <a href="https://wa.me/+2349033478955"><img src="./assets/whatsapp.jpeg" alt="Whatsapp" height="50" title="Send WhatsApp Message"></a>
 
-📧 Or email me directly at **raphwrld99@gmail.com**
+📧 Or email me directly at **paulokolie99@gmail.com*
 
 ---
 
